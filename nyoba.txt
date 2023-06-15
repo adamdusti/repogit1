@@ -1,0 +1,1 @@
+ini merupakan file pertama untuk git adam
